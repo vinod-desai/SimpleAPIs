@@ -1,8 +1,8 @@
 # SimpleAPIs
-Created simple API (HTTP Methods: GET, POST, PUT, DELETE) using Express framework.
+Created simple APIs (HTTP Methods: GET, POST, PUT, DELETE) using Express framework.
 
-#Install Dependecies
+# Install Dependecies
 npm install
 
-#run application
+# Run application
 npm run dev
